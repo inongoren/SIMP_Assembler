@@ -32,6 +32,7 @@ If so, The Assembler checks if it's a regular command or the special command .wo
   **.word command** - The translation is made by recognizind the desired address and data and writes the data in the desired location in the output file.
   
   **Functions**:
+  
   **writing_func** - 
   Description: gets a line of Assembly code, tranlate it and writes the translated content to the output file.
   input: Pointer to a text line which contain command in it, the command number, Pointer to the Labels array, Pointer to the output file.
