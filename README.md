@@ -1,5 +1,5 @@
 # SIMP_Assembler
-An assembler for SIMP procesor (invented processor)
+An assembler for a SIMP procesor (invented processor)
 
 This Assembler is build in C language. 
 it translate an Assembly code written for a SIMP processor to a maching language code.
